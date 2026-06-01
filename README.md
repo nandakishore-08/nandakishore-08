@@ -33,8 +33,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-08&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandakishore-08&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-08&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ⭐ *Feel free to explore my repositories and projects!* 🚀
