@@ -37,7 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-08&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left">
+<p align="center">
   <a href="www.linkedin.com/in/nandakishoreneelam08"target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
