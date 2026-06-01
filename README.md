@@ -19,6 +19,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-ORANGE?style=for-the-badge" alt="LLMs" />
   <img src="https://img.shields.io/badge/GenAI-PURPLE?style=for-the-badge" alt="GenAI" />
+  <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/LangChain-FF4F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -32,8 +33,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-08&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-08&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-08&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-08&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ⭐ *Feel free to explore my repositories and projects!* 🚀
