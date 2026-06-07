@@ -42,8 +42,7 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandakishore-08&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; height: auto; flex: 1 1 400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-08&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%; height: auto; flex: 1 1 300px;" />
-</p>
+
 
 ---
 
